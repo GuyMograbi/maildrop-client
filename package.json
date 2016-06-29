@@ -1,0 +1,14 @@
+{
+  "name": "maildrop-client",
+  "version": "0.0.0",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "jquery": "^3.0.0",
+    "node-request": "0.0.3",
+    "request": "^2.72.0",
+    "standard": "^7.1.2"
+  },
+  "scripts" : {
+    "test": "standard"
+  }
+}
